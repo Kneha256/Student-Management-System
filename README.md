@@ -1,7 +1,7 @@
 # Student Management System<br>
 
 # Description<br>
-This is a simple Python console-based Student Management System implemented using PYTHON (Procedural Programming Concept).<br>
+This is a simple Python console-based Student Management System implemented using Procedural Programming.<br>
 The program allows users to manage student records by adding new students, updating marks, searching for a student, and displaying all students with their marks.<br><br>
 
 # Features
