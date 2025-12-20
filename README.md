@@ -20,6 +20,7 @@ Enter C to search for a student<br>
 Enter D to display all student data<br>
 Type STOP to exit the program<br><br>
 
+
 # Notes
 All student data is stored temporarily in a dictionary and will be lost once the program exits.<br>
 Marks must be entered as integers.<br>
